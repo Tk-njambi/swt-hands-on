@@ -1,18 +1,18 @@
 # 🐞 Bug Report Summary
 
 ## 🧾 Student Details  
-**Name**: [Your Full Name]  
-**Cohort**: [e.g., August 2024]  
-**Date**: [Today’s Date]
+**Name**: [Tabitha Njambi Kamau]  
+**Cohort**: [July 2025]  
+**Date**: [01/10/2025]
 
 ---
 
 ## ✅ Expected Behaviors  
 List 3 things you expect the Weather Checker app to do correctly.
 
-1.
-2. 
-3. 
+1.Should be able to display the weather of any city in the world.
+2.Should return an error message incase of blank input.
+3.Should
 ---
 
 ## 🐛 Reported Bugs  
